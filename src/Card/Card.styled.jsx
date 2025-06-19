@@ -4,7 +4,7 @@ export const QrCodeScannerCard=styled.div`
     height:330px;
     width:500px;
     border-radius:10px;
-    background-color:#e84307;
+    background-color:#a493ee;
     display:flex;
     flex-direction:column;
     justify-content:center;
